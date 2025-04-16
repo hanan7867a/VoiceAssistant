@@ -4,12 +4,19 @@ This is a Python-based voice assistant application that integrates speech recogn
 
 ## Features
 
-- **Speech Recognition**: The assistant recognizes and processes voice commands.
+- **Speech Recognition**: The assistant recognises and processes voice commands.
 - **WhatsApp Messaging**: Send WhatsApp messages to contacts using voice commands.
 - **Meeting Scheduling**: Users can schedule meetings using natural language and set reminders.
 - **Voice Feedback**: The assistant responds to users with text-to-speech feedback.
 - **Real-Time Reminders**: The assistant reminds the user about upcoming meetings.
 - **Search the Web**: The assistant can perform web searches using voice commands (via Google Search).
-how to use :
-open the folder and write this command in terminal python main.py
+
+
+## How to use :
+
+1. Create a folder.
+2 Add all these Python files 
+3. Open your folder in your desired compiler 
+4. Open a terminal and write python main.py
+
 
