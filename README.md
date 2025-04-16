@@ -15,7 +15,7 @@ This is a Python-based voice assistant application that integrates speech recogn
 ## How to use :
 
 1. Create a folder.
-2 Add all these Python files 
+2. Add all these Python files 
 3. Open your folder in your desired compiler 
 4. Open a terminal and write python main.py
 
