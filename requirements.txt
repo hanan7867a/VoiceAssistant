@@ -1,0 +1,8 @@
+pyttsx3==2.90
+speechrecognition==3.8.1
+pywhatkit==5.2
+schedule==1.1.0
+datetime==4.3
+json==2.0.9
+threading==3.7
+requests==2.26.0
